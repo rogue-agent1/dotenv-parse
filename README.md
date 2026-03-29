@@ -1,11 +1,11 @@
-# dotenv_parse
+# dotenv-parse
 
-dotenv_parse - Parse .env files with variable expansion and multiline support.
+Parse and manage .env files.
 
 ## Usage
 
 ```bash
-python3 dotenv_parse.py --test
+python3 dotenv_parse.py test
 ```
 
 Zero dependencies. Python 3.8+.
